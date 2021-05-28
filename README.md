@@ -1,4 +1,4 @@
-# tinatsaitp.2021-Spring
+# 2021-Spring
 All works are done in 2021 Spring semester
 
 
