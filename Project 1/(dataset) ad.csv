@@ -1,0 +1,90 @@
+adId,companyId,adType,adFormat
+a123,1,"Sports, Travel, Films/Movies/Drama, Leaning languages",Banner
+b123,2,"Games/Gamings, Music, Food/Cooking, Books/Novels, Comic books/Mangas",Banner
+c123,2,"Sports, Music, Science and technology",Skip Ad on Video
+d123,5,"Sports, Cars, Business/Investment",Pop-up
+e123,1,"Sports, Cars, Business/Investment",Skip Ad on Video
+f123,2,"Sports, Food/Cooking, Films/Movies/Drama, Cars",Skip Ad on Video
+g123,6,"Sports, Science and technology, Sponsored ads",Skip Ad on Video
+h123,5,"Sports, Cars, Business/Investment",Pop-up
+i123,1,"Sports, Cars, Business/Investment",Skip Ad on Video
+j123,2,"Music, Marketing",Skip Ad on Video
+k123,2,"Sports, Food/Cooking, Travel, Films/Movies/Drama, Business/Investment",Skip Ad on Video
+l123,6,"Games/Gamings, Sports, Music, Food/Cooking, Travel",Skip Ad on Video
+m123,6,"Games/Gamings, Sports, Music, Cars, Business/Investment",Skip Ad on Video
+n123,6,"Games/Gamings, Sports, Music, Cars, Business/Investment",Skip Ad on Video
+o123,2,"Sports, Music, Science and technology",Skip Ad on Video
+p124,2,Films/Movies/Drama,Skip Ad on Video
+q123,2,"Makeup, Travel, Media related products, Books/Novels, Job/Career",Skip Ad on Video
+r123,2,"Music, Makeup, Travel, Films/Movies/Drama",Skip Ad on Video
+s123,2,Films/Movies/Drama,Skip Ad on Video
+t124,5,"Music, Films/Movies/Drama",Skip Ad on Video
+u123,2,Others,Skip Ad on Video
+v123,4,Music,Sponsored Feed Post
+w123,6,None,Skip Ad on Video
+x123,2,Games/Gamings,Skip Ad on Video
+y123,5,"Food/Cooking, Makeup, Films/Movies/Drama",Sponsored Feed Post
+z123,4,"Arts, Travel, Media related products, Films/Movies/Drama, Books/Novels",Pop-up
+ad101,6,Travel,Skip Ad on Video
+ad102,2,"Travel, Films/Movies/Drama",Skip Ad on Video
+ad103,1,"Science and technology, Job/Career, Business/Investment, Sponsored ads, Marketing",Skip Ad on Video
+ad104,2,Travel,Skip Ad on Video
+ad105,1,"Games/Gamings, Travel, Job/Career, Learning languages",Sponsored Feed Post
+ad106,2,"Food/Cooking, Makeup, Travel",Sponsored Feed Post
+ad107,6,Games/Gamings,Skip Ad on Video
+ad108,6,None,Others
+ad109,1,None,Skip Ad on Video
+ad110,6,"Music, Films/Movies/Drama",Sponsored Feed Post
+ad111,6,"Arts, Films/Movies/Drama , Job/Career, Learning languages, Sponsored ads ",Sponsored Feed Post
+ad112,6,"Games/Gamings, Sports, Music, Food/Cooking, Travel, Media related products, Films/Movies/Drama, Books/Novels, Cars, Education, Science and technology, Social services, Job/Career",Skip Ad on Video
+ad113,2,"Animals, Arts, Music, Food/Cooking, Makeup",Sponsored Feed Post
+ad114,2,"Arts, Music, Food/Cooking, Makeup, Films/Movies/Drama",Sponsored Feed Post
+ad115,5,"Games/Gamings, Sports, Science and technology",Sponsored Feed Post
+ad116,6,"Games/Gamings, Comic books/Mangas",Banner
+ad117,6,"Games/Gamings, Animals, Films/Movies/Drama ",Pop-up
+ad118,6,"Games/Gamings, Animals, None",Skip Ad on Video
+ad119,2,"Animals, Arts, Music, None",Skip Ad on Video
+ad120,2,"Arts, Music, None",Sponsored Feed Post
+fin10,6,"Arts, Music, Makeup, Travel, Comic books/Mangas",Skip Ad on Video
+fin20,2,"Arts, Food/Cooking, Books/Novels, Comic books/Mangas, Marketing",Skip Ad on Video
+fin30,6,"Arts, Travel, Films/Movies/Drama, Books/Novels, Science and technology",Skip Ad on Video
+fin40,2,"Arts, Makeup, Travel , Comic books/Mangas, Sponsored ads",Sponsored Feed Post
+fin50,4,"Arts, Music, Food/Cooking, Films/Movies/Drama, Job/Career",Sponsored Feed Post
+fin60,2,"Animals, Arts, Travel",Skip Ad on Video
+fin70,2,"Arts, Music",Skip Ad on Video
+fin80,6,"Music, Food/Cooking, Learning languages, Sponsored ads, Marketing",Skip Ad on Video
+fin90,6,"Games/Gamings, None",Skip Ad on Video
+fin100,6,"Games/Gamings, Arts, Science and technology, None",Skip Ad on Video
+tem1,2,"Comic books/Mangas, Others",Skip Ad on Video
+tem2,2,"Games/Gamings, Comic books/Mangas, Cars, Science and technology, Learning languages",Skip Ad on Video
+tem3,6,None,Skip Ad on Video
+tem4,4,"Comic books/Mangas, Science and technology, Others",Others
+tem5,4,"Music, Makeup, Books/Novels, Cars",Skip Ad on Video
+tem6,3,"Animals, Arts, Music, Food/Cooking, Makeup, Education, Marketing",Skip Ad on Video
+tem7,4,"Games/Gamings, Animals, Sports, Food/Cooking, Comic books/Mangas",Skip Ad on Video
+tem8,4,None,Skip Ad on Video
+tem9,2,"Animals, Arts, Music, Makeup",Sponsored Feed Post
+tem10,4,"Games/Gamings, Travel, Learning languages",Skip Ad on Video
+tem20,3,Games/Gamings,Skip Ad on Video
+tem31,2,"Films/Movies/Drama, Marketing",Skip Ad on Video
+tem36,6,Science and technology,Skip Ad on Video
+tem87,6,None,Skip Ad on Video
+tem99,2,"Music, Media related products, Films/Movies/Drama",Skip Ad on Video
+lis6,2,"Food/Cooking, Makeup, Business/Investment",Sponsored Feed Post
+lis8,1,"Arts, Food/Cooking, Comic books/Mangas, Education, Science and technology",Sponsored Feed Post
+lis9,6,None,Pop-up
+lis16,5,"Games/Gamings, Music, Makeup, Travel",Sponsored Feed Post
+lis17,2,"Arts, Music, Films/Movies/Drama",Skip Ad on Video
+lis18,1,"Arts, Food/Cooking, Comic books/Mangas, Education, Science and technology",Sponsored Feed Post
+lis20,6,None,Skip Ad on Video
+lis22,6,"Games/Gamings, Sports, Food/Cooking, Travel, Science and technology",Skip Ad on Video
+lis28,6,"Games/Gamings, Arts, Music, Films/Movies/Drama , Comic books/Mangas",Banner
+lis34,6,"Science and technology, Learning languages",Skip Ad on Video
+lis64,2,"Music, Makeup, Travel, Films/Movies/Drama",Skip Ad on Video
+lis77,4,"Games/Gamings, Sports, Travel, Cars, Job/Career",Skip Ad on Video
+rr462,4,"Food/Cooking, Makeup, Films/Movies/Drama",Skip Ad on Video
+rr444,2,"Sports, Music, Food/Cooking, Travel, Sponsored ads",Skip Ad on Video
+rr109,2,"Animals, Makeup, Films/Movies/Drama, Books/Novels, Comic books/Mangas",Skip Ad on Video
+rr455,2,"Games/Gamings, Animals, Music, Films/Movies/Drama, Books/Novels, Comic books/Mangas",Banner
+rr988,6,None,Skip Ad on Video
+rr345,6,None,Skip Ad on Video

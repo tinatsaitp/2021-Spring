@@ -1,0 +1,90 @@
+userId,userName,userAgeRange,userGender,userInterests,usageTime,companyId
+1,Mitch,From 50 to 65 years old,Man,"Entertainment (Funny/Amateur videos), Music, News, Science and technology, Business/Investment",9:00pm -11:00pm,1
+2,Josue,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Music, Food/Cooking, Comic books/Mangas",5:00pm - 7:00pm,2
+3,Matthew Neil,From 19 to 25 years old,Man,"Music, Science and technology",5:00pm - 7:00pm,2
+4,Joe,From 19 to 25 years old,Man,"Games/Gamings, Sports, Car related, Science and technology, Business/Investment",7:00pm - 9:00pm,5
+5,Jay dong ,From 19 to 25 years old,Man,"Games/Gamings, Sports, Food/Cooking, Car related, Business/Investment",7:00pm - 9:00pm,1
+6,Jhan,From 19 to 25 years old,Man,"Sports, Music, Car related, Business/Investment",5:00pm - 7:00pm,2
+7,Josh,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Sports, Music, Education related, Science and technology",9:00pm -11:00pm,6
+8,Joe,From 19 to 25 years old,Man,"Games/Gamings, Sports, Car related, Science and technology, Business/Investment",7:00pm - 9:00pm,5
+9,Jay dong ,From 19 to 25 years old,Man,"Games/Gamings, Sports, Food/Cooking, Car related, Business/Investment",7:00pm - 9:00pm,1
+10,Rai ,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Sports",3:00pm - 5:00pm,2
+11,Brandon German,From 19 to 25 years old,Man,"Games/Gamings, Sports, Music, Films/Movies/Drama, Business/Investment",11:00pm - 1:00am,2
+12,Zafar Syed,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Music, Food/Cooking, Travel, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama, Books/Novels, Car related, News, Education related, Science and technology, Job/Career related, Business/Investment, Culture related, Language related",11:00pm - 1:00am,6
+13,Danny Lujan,From 19 to 25 years old,Man,"Games/Gamings, Sports, Music, Travel, Business/Investment",1:00am - 3:00am,6
+14,Danny Lujan,From 19 to 25 years old,Man,"Games/Gamings, Sports, Music, Travel, Business/Investment",1:00am - 3:00am,6
+15,Matthew Neil,From 19 to 25 years old,Man,"Music, Science and technology",5:00pm - 7:00pm,2
+16,Kevin Moposita,From 19 to 25 years old,Man,"Games/Gamings, Sports, Food/Cooking, Films/Movies/Drama, Science and technology",7:00pm - 9:00pm,2
+17,Mahajabin,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Music, Makeup, Travel, Films/Movies/Drama",11:00pm - 1:00am,2
+18,Fari,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Games/Gamings, Music, Food/Cooking, Films/Movies/Drama",3:00pm - 5:00pm,2
+19,Kevin Moposita,From 19 to 25 years old,Man,"Games/Gamings, Sports, Food/Cooking, Films/Movies/Drama, Science and technology",7:00pm - 9:00pm,2
+20,B.,From 19 to 25 years old,Woman,"Sports, Music, Films/Movies/Drama, Science and technology, Social services",11:00pm - 1:00am,5
+21,Wkelly,From 19 to 25 years old,Woman,"Science and technology, Others",7:00pm - 9:00pm,2
+22,Sasha,From 19 to 25 years old,Woman,Games/Gamings,7:00pm - 9:00pm,4
+23,Jazera,From 19 to 25 years old,Woman,"Animals, Arts, Music, Food/Cooking, Travel",3:00pm - 5:00pm,6
+24,Jia,From 13 to 18 years old,Woman,Arts,7:00pm - 9:00pm,2
+25,Dorcas,From 19 to 25 years old,Woman,"Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama, Books/Novels, Comic books/Mangas",1:00am - 3:00am,5
+26,Doris,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Games/Gamings, Arts, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama",3:00pm - 5:00pm,4
+27,Tiffany,From 19 to 25 years old,Woman,Films/Movies/Drama,3:00pm - 5:00pm,6
+28,James,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Music, Travel, Films/Movies/Drama",9:00pm -11:00pm,2
+29,Po-Ting,From 19 to 25 years old,Man,"Games/Gamings, Science and technology, Business/Investment, Culture related, Language related",1:00am - 3:00am,1
+30,Pei-Ting,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Music, Travel, Films/Movies/Drama",11:00pm - 1:00am,2
+31,Mosquito,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Food/Cooking, Comic books/Mangas",11:00pm - 1:00am,1
+32,Qizziiq,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Sports, Music, Books/Novels, News",7:00pm - 9:00pm,2
+33,Kanghsi,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Music, Food/Cooking, Comic books/Mangas",1:00pm - 3:00pm,6
+34,Jenny,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Makeup, Films/Movies/Drama",5:00pm - 7:00pm,6
+35,Seanchang,From 19 to 25 years old,Other,Films/Movies/Drama,1:00am - 3:00am,1
+36,Minow,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Music, Films/Movies/Drama, Books/Novels, Comic books/Mangas",11:00am - 1:00pm,6
+37,Tina,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Music, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Comic books/Mangas",3:00pm - 5:00pm,6
+38,Zafar Syed,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Music, Food/Cooking, Travel, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama, Books/Novels, Car related, News, Education related, Science and technology, Job/Career related, Business/Investment, Culture related, Language related",11:00pm - 1:00am,6
+39,Kat,From 26 to 32 years old,Woman,"Entertainment (Funny/Amateur videos), Animals, Food/Cooking, Makeup, Culture related",9:00am - 11:00am,2
+40,Tina,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Makeup, News, Culture related",9:00pm -11:00pm,2
+41,Sam,From 19 to 25 years old,Man,"Games/Gamings, Sports, Music, Food/Cooking, Science and technology",9:00pm -11:00pm,5
+42,Isham,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Food/Cooking, News",9:00pm -11:00pm,6
+43,Huiyang Lin,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Animals, Music, News",7:00pm - 9:00pm,6
+44,Darren,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Animals, Arts, Music, Food/Cooking, Travel, Others",9:00pm -11:00pm,6
+45,Alex,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Travel, Films/Movies/Drama, Science and technology, Culture related",3:00pm - 5:00pm,2
+46,Eli,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Animals, Arts, Music, Films/Movies/Drama",3:00pm - 5:00pm,2
+47,Clara,From 13 to 18 years old,Woman,"Arts, Music, Makeup, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Comic books/Mangas",11:00pm - 1:00am,6
+48,Jossie ,From 19 to 25 years old,Woman,"Games/Gamings, Arts",9:00pm -11:00pm,2
+49,Maria,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Animals, Arts, Films/Movies/Drama, Books/Novels",9:00pm -11:00pm,6
+50,Fei,From 19 to 25 years old,Woman,"Arts, Music, Makeup, Films/Movies/Drama, Comic books/Mangas",7:00pm - 9:00pm,2
+51,Brian ,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Animals, Arts, Music, Food/Cooking",1:00am - 3:00am,4
+52,Susie,Over 65 years old,Woman,"Arts, Travel, Books/Novels, Language related",7:00am - 9:00am,2
+53,Portia,From 19 to 25 years old,Other,"Entertainment (Funny/Amateur videos), Arts, Music, News",9:00pm -11:00pm,2
+54,Shannon,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Films/Movies/Drama, Books/Novels, Comic books/Mangas",9:00pm -11:00pm,6
+55,Yibo Hu ,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Music",11:00pm - 1:00am,6
+56,Sean Hong,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Arts, Education related, Science and technology",1:00pm - 3:00pm,6
+57,Mel,From 19 to 25 years old,Woman,"Games/Gamings, Arts, Comic books/Mangas, Others",9:00pm -11:00pm,2
+58,Jon ,From 19 to 25 years old,Man,"Games/Gamings, Comic books/Mangas, Car related, Science and technology, Language related",1:00pm - 3:00pm,2
+59,Helen,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Music, Food/Cooking, Makeup, Travel, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Job/Career related, Others",9:00pm -11:00pm,6
+60,Bailey,From 13 to 18 years old,Man,"Entertainment (Funny/Amateur videos), Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama, Comic books/Mangas, News",1:00pm - 3:00pm,4
+61,Kia!!,From 19 to 25 years old,Woman,"Music, Food/Cooking, Job/Career related, Business/Investment, Culture related",11:00am - 1:00pm,4
+62,Carmen,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Music, Food/Cooking, Makeup, Travel, Films/Movies/Drama, News, Job/Career related, Business/Investment, Culture related",11:00pm - 1:00am,3
+63,Jessica,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Sports, Food/Cooking, Comic books/Mangas, Culture related",1:00am - 3:00am,4
+64,Pearl,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Sports, Music, Makeup, Travel",1:00am - 3:00am,4
+65,Alex,From 19 to 25 years old,Woman,"Arts, Science and technology, Culture related",11:00pm - 1:00am,2
+66,Kat,From 19 to 25 years old,Woman,"Games/Gamings, Travel, Books/Novels, Business/Investment, Culture related",3:00pm - 5:00pm,4
+67,Skip,From 13 to 18 years old,Man,"Games/Gamings, Films/Movies/Drama, Car related",7:00pm - 9:00pm,3
+68,Christina ,From 19 to 25 years old,Woman,Business/Investment,5:00pm - 7:00pm,2
+69,~A,From 13 to 18 years old,Man,Science and technology,11:00pm - 1:00am,6
+70,Mohina,From 13 to 18 years old,Woman,"Entertainment (Funny/Amateur videos), Films/Movies/Drama",11:00pm - 1:00am,6
+71,Jose,From 13 to 18 years old,Man,"Music, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Films/Movies/Drama",9:00pm -11:00pm,2
+72,Diana,From 19 to 25 years old,Woman,Science and technology,9:00pm -11:00pm,2
+73,Alex ,From 26 to 32 years old,Man,"Games/Gamings, Arts, Comic books/Mangas, News, Language related",7:00pm - 9:00pm,1
+74,mangopique,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Music, Books/Novels",1:00am - 3:00am,6
+75,L,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Games/Gamings, Education related, Science and technology",9:00pm -11:00pm,5
+76,Alicea,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Games/Gamings, Arts, Music, Travel",1:00pm - 3:00pm,2
+77,Alex ,From 26 to 32 years old,Man,"Games/Gamings, Arts, Comic books/Mangas, News, Language related",7:00pm - 9:00pm,1
+78,Mohina,From 13 to 18 years old,Woman,"Entertainment (Funny/Amateur videos), Films/Movies/Drama",11:00pm - 1:00am,6
+79,Randall,From 19 to 25 years old,Man,"Games/Gamings, Sports, Education related, Science and technology, Language related",3:00pm - 5:00pm,6
+80,Danyel,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Games/Gamings, Animals, Arts, Music",3:00pm - 5:00pm,6
+81,Zen,From 26 to 32 years old,Man,"Sports, Media (e.g. learn how to editing videos, how to shooting, how to produce sounds, etc.), Science and technology, Culture related",11:00pm - 1:00am,6
+82,Noa,From 19 to 25 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Makeup, Travel, Films/Movies/Drama",3:00pm - 5:00pm,2
+83,Kevin Jackrel,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Games/Gamings, Sports, Food/Cooking, Travel, News, Education related, Science and technology, Job/Career related",9:00pm -11:00pm,4
+84,julia,From 26 to 32 years old,Woman,"Entertainment (Funny/Amateur videos), Arts, Food/Cooking, News, Social services",7:00am - 9:00am,4
+85,Christian Cambizaca,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Sports, Music, Science and technology, Others",3:00pm - 5:00pm,2
+86,Amelia,From 19 to 25 years old,Woman,Job/Career related,1:00pm - 3:00pm,2
+87,Bilal,From 19 to 25 years old,Man,"Entertainment (Funny/Amateur videos), Books/Novels, Science and technology",11:00pm - 1:00am,2
+88,Lily Cai,From 33 to 49 years old,Woman,"Entertainment (Funny/Amateur videos), Food/Cooking, Films/Movies/Drama, Education related, Culture related, Language related",9:00pm -11:00pm,6
+89,Lily Cai,From 33 to 49 years old,Woman,"Entertainment (Funny/Amateur videos), Food/Cooking, Films/Movies/Drama, Education related, Culture related, Language related",9:00pm -11:00pm,6

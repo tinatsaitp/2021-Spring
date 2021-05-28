@@ -1,7 +1,3 @@
-# Name: Yun-Ting Tsai
-# Assignment 3
-# Date: 03/11/21
-
 -- Q1:
 
 -- a.	What is SQL and what is it used for?
