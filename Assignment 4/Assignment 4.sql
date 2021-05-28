@@ -1,7 +1,3 @@
-# Name: Yun-Ting Tsai
-# Assignment 4
-# Date: 05/19/21
-
 create table alcohol(
 	school varchar(2),
 	sex char,
