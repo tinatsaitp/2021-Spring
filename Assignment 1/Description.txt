@@ -1,0 +1,3 @@
+This assignment is to use the "van_Gogh_paintings" dataset to create 2 data visualizations.
+
+These 2 visualizations both depict the relationship between Seasons, Places, and Genres. I selected van Gogh's paintings that he created in the summers and compared how many artworks he did in different locations by each genre.
