@@ -1,2 +1,2 @@
 # 2021-Spring
-All works are done in 2021 Spring semester
+All CS works are done in the 2021 Spring semester
